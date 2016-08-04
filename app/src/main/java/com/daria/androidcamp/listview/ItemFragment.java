@@ -25,6 +25,7 @@ public class ItemFragment extends Fragment {
     ListView list;
     ListAdapter myAdapter;
     CallBack mLister;
+    int smth;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
